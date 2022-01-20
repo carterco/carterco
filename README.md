@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! My name is Courtney. 👋
+
+- 🤔 I’m looking for help with building my GitHub confidence and formalizing my Python knowledge.
+- 💬 Ask me about basic Python syntax.
+- 📫 How to reach me: c.carter@columbia.edu.
+- 😄 Pronouns: She/her/hers
+- ⚡ Fun fact: I once had a pet snake named Bernoulli!
 
 <!--
 **carterco/carterco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
